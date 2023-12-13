@@ -11,7 +11,7 @@
 
 ### te presento 🐶Jotchua bot🐶 (bot modificado de otro bot):
 
-<a href="https://github.com/AleXD0009/Jotchua-bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AleXD0009&repo=Jotchua-bot-MD&theme=merko)</a>
+<a href="https://github.com/AleXD0009/Jotchua">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AleXD0009&repo=Jotchua&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
   
