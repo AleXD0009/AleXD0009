@@ -11,6 +11,8 @@
 
 ### te presento 🐶Jotchua bot🐶 (bot modificado de otro bot):
 
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/AleXD0009/Jotchua/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+
 <a href="https://github.com/AleXD0009/Jotchua">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AleXD0009&repo=Jotchua&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
