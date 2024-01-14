@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AleXD0009&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleXD0009&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### te presento 🐶Jotchua bot🐶 (bot modificado de otro bot):
+### te presento 🐶Jotchua bot🐶:
 
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/AleXD0009/Jotchua-Bot/master/menu2.jpg" width="450" height="240" alt="JPG"/></a>
 
