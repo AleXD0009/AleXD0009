@@ -12,7 +12,7 @@
 
 ### te presento 🐶Jotchua bot🐶:
 
-<p align="left"> <img src="[https://github.com/AleXD0009/Jotchua-Bot/blob/master/storage/img/catalogo.png](https://github.com/AleXD0009/Jotchua-Bot/blob/master/src/welgc.webp)" /> </p>
+<p align="left"> <img src="[[https://github.com/AleXD0009/Jotchua-Bot/blob/master/storage/img/catalogo.png](https://github.com/AleXD0009/Jotchua-Bot/blob/master/src/welgc.webp)](https://github.com/AleXD0009/Jotchua-Bot/blob/master/src/nuevobot.jpg)" /> </p>
 
 
 
