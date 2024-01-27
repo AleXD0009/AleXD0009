@@ -12,7 +12,9 @@
 
 ### te presento 🐶Jotchua bot🐶:
 
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/AleXD0009/Jotchua-Bot/master/menu2.jpg" width="450" height="240" alt="JPG"/></a>
+<p align="left"> <img src="[https://github.com/AleXD0009/Jotchua-Bot/blob/master/storage/img/catalogo.png](https://github.com/AleXD0009/Jotchua-Bot/blob/master/src/welgc.webp)" /> </p>
+
+
 
 <a href="https://github.com/AleXD0009/Jotchua">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AleXD0009&repo=Jotchua-Bot&theme=merko)</a>
 
