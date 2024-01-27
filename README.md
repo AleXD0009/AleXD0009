@@ -1,7 +1,8 @@
 ### Hola soy ALS 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AleXD0009&label=Vistas%20al%20perfil&color=03fc2c&style=flat" alt="AleXD0009" /> </p>
 
-
+<p align="left"> <img src="https://github.com/AleXD0009/Jotchua-Bot/blob/master/storage/img/catalogo.png" /> </p>
+                   
 ### Tecnología:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 # 📊 Estadísticas de GitHub:
