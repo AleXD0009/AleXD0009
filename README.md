@@ -11,6 +11,6 @@
 
 <img src="" style="max-width: 100%;">
 <br/>
-<img src="" alt="spotify-github-profile" style="max-width: 100%;">
+<img src="" alt="" style="max-width: 100%;">
 <br/>
 <br/>
