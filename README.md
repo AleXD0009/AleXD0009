@@ -7,9 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AleXD0009&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleXD0009&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### te presento 🐶Jotchua bot-mini🐶:
-
-<a href="https://github.com/AleXD0009/jotchua-mini">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AleXD0009&repo=jotchua-mini&theme=merko)</a>
+**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/3ymwOvzhwHs?style=social) : https://youtu.be/3ymwOvzhwHs**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
   
