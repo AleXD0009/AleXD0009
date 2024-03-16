@@ -7,3 +7,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
   
+
+#### 10 . [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile)
+
+<br/>
+📍 For example : &nbsp;
+<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
+<br/>
+<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="spotify-github-profile" style="max-width: 100%;">
+<br/>
+<br/>
