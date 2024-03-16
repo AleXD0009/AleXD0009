@@ -9,8 +9,8 @@
   
 
 
-<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
+<img src="" style="max-width: 100%;">
 <br/>
-<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="spotify-github-profile" style="max-width: 100%;">
+<img src="" alt="spotify-github-profile" style="max-width: 100%;">
 <br/>
 <br/>
