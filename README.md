@@ -1,4 +1,3 @@
-### <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">𝑯𝒐𝒍𝒂 𝑺𝒐𝒚 𝑨𝑳𝑺</font></font>
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=AleXD0009&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
