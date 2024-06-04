@@ -1,15 +1,23 @@
+## JTxs
+<p align="center">
+<img src="https://telegra.ph/file/1e79adfb814a15ff6d473.jpg" alt="Bot-Actualizando" width="800"/>
+</p>
+ 
+
+```bash
+"📌 Proyecto : Hasumi - Bot",
+"🤖 bots echos hasta el momento : jotchua - mini",
+```
+
 
 # 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=AleXD0009&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AleXD0009&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleXD0009&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+</div>
+<div align="center">
+<a href="https://github.com/AleXD0009/">
+<img src="https://github-readme-stats.vercel.app/api?username=AleXD0009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AleXD0009&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="AleXD0009"/>
+<br><br>
+</a>
   
 
 
-<img src="" style="max-width: 100%;">
-<br/>
-<img src="" alt="" style="max-width: 100%;">
-<br/>
-<br/>
