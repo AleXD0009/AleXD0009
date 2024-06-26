@@ -5,7 +5,7 @@
  
 
 ```bash
-"📌 Proyecto : Hasumi - Bot",
+"📌 Proyectos : [ Hasumi - Bot | sylpha - bot ]",
 "🤖 bots echos hasta el momento : jotchua - mini",
 ```
 
