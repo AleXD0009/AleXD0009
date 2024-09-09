@@ -1,16 +1,7 @@
-## JTxs
 <p align="center">
-<img src="https://telegra.ph/file/1e79adfb814a15ff6d473.jpg" alt="Bot-Actualizando" width="800"/>
+<img src="https://telegra.ph/file/1e79adfb814a15ff6d473.jpg" alt="Bot-Actualizando" width="400"/>
 </p>
  
-
-```bash
-"📌 Proyectos : [ Hasumi - Bot | sylpha - bot ]",
-"🤖 bots echos hasta el momento : jotchua - mini",
-```
-
-
-# 📊 Estadísticas de GitHub:
 </div>
 <div align="center">
 <a href="https://github.com/AleXD0009/">
