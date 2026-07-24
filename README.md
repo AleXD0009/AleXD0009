@@ -1,4 +1,4 @@
-# ✿ Welcome to my profile :P
+# ✿ Welcome to my profile
 <img align="center" src="https://i.pinimg.com/originals/fd/24/51/fd245185f95a85127216b3f0ae9c5fde.gif" style="border-radius: 10px;"/>
 
 # ✿ about me 
@@ -10,31 +10,47 @@
 <br><br>
 
 
-# ✿ Projects : 
+## ✿ Projects
 
-<a href="https://github.com/AleXD0009">
-<img align="left" width="100" src="https://i.pinimg.com/originals/90/87/2a/90872ab913908b5d0de6852d1946e307.jpg">
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://i.pinimg.com/originals/90/87/2a/90872ab913908b5d0de6852d1946e307.jpg" width="120" style="border-radius: 10px;"/>
+    </td>
+    <td align="left">
+      <h3>HasumiBot</h3>
+      <p><strong>Status:</strong> <code>Maintenance</code></p>
+      <p>A feature-rich WhatsApp bot built with <strong>Baileys</strong></p>
+      <p>Includes: downloads ◦ searches ◦ games ◦ and much more</p>
+      <a href="https://github.com/AleXD0009">View Project →</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="150">
+      <img src="https://i.pinimg.com/originals/25/3c/d2/253cd2f9bfcef51888ed165cdf6c2106.jpg" width="120" style="border-radius: 10px;"/>
+    </td>
+    <td align="left">
+      <h3>Jotchua-Bot</h3>
+      <p><strong>Status:</strong> <code>Completed</code></p>
+      <p>A WhatsApp bot built with <strong>Baileys</strong> library</p>
+      <p>A finished project bringing automation to your chats</p>
+      <a href="https://github.com/AleXD0009">View Project →</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="150">
+      <img src="https://i.pinimg.com/736x/91/14/2f/91142f49de3c3745a7dd4d7b3b870d45.jpg" width="120" style="border-radius: 10px;"/>
+    </td>
+    <td align="left">
+      <h3>Fami-Kiga-bot</h3>
+      <p><strong>Status:</strong> <code>Occasional Updates</code></p>
+      <p>A WhatsApp bot built with <strong>Baileys</strong> library</p>
+      <p>Regular improvements and feature additions</p>
+      <a href="https://github.com/AleXD0009/Fami-Kiga-bot">View Project →</a>
+    </td>
+  </tr>
+</table>
 
-**Name :** *HasumiBot*  
-**Maintenance :** *????*  
-**information :** *whatsapp bot made with the library* **Whiskeysockets/Baileys** *with multiple functions, downloads/searches/games among other things*
-<br><br>
-
-<a href="https://github.com/AleXD0009">
-<img align="left" width="100" src="https://i.pinimg.com/originals/25/3c/d2/253cd2f9bfcef51888ed165cdf6c2106.jpg">
-</a>
-
-**Name :** *Jotchua-Bot*  
-**Maintenance :** *Finalized*  
-**information :** *whatsapp bot made with the library* **Whiskeysockets/Baileys** 
-<br><br>
-
-<a href="https://github.com/AleXD0009/Sylpha-Bot">
-<img align="left" width="100" src="https://i.pinimg.com/originals/8c/b9/08/8cb90879d67bcda7fa7a6c4450da6885.jpg">
-</a>
-
-**Name :** *Sylpha-Bot*  
-**Maintenance :** *every so often*  
-**information :** *whatsapp bot made with the library* **Whiskeysockets/Baileys** 
-<br><br>
+---
